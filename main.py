@@ -1,2 +1,2 @@
-# Entry point for Telegram bot
-print('Bot starting...')
+# main.py
+print("This is a placeholder for the full-featured Bitget Arbitrage Trading Bot.")
